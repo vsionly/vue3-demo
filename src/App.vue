@@ -12,11 +12,11 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: #05f92a6d;
 }
 
 nav {
-  padding: 30px;
+  padding: 30px; 
 
   a {
     font-weight: bold;
